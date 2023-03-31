@@ -1787,7 +1787,7 @@ body {
 }
 
 .theme-dark .t1 #footer-bar a {
-  background: url(../../images/icon/home.png);
+  background: url(../images/icon/home.png);
   background-size: auto 90% !important;
   background-repeat: no-repeat !important;
   background-position: center !important;

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3d7e2c93c10e0403f7f3",
+    "revision": "da8cc69a0c7a436039b5",
     "url": "/diamond-addy/static/css/main.a68515c2.chunk.css"
   },
   {
-    "revision": "3d7e2c93c10e0403f7f3",
-    "url": "/diamond-addy/static/js/main.3d7e2c93.chunk.js"
+    "revision": "da8cc69a0c7a436039b5",
+    "url": "/diamond-addy/static/js/main.da8cc69a.chunk.js"
   },
   {
     "revision": "e459cc6ec89340cad24c",
@@ -18,6 +18,10 @@ self.__precacheManifest = [
   {
     "revision": "049895bfcdc0620d85b0",
     "url": "/diamond-addy/static/js/runtime~main.049895bf.js"
+  },
+  {
+    "revision": "544a920dd951239efb587b260e2907ae",
+    "url": "/diamond-addy/static/media/deposit.544a920d.png"
   },
   {
     "revision": "5829eb34f4a36b233d8cbf0f0a5c36df",
@@ -34,10 +38,6 @@ self.__precacheManifest = [
   {
     "revision": "1893ef65f8b39d317948865af9fe9759",
     "url": "/diamond-addy/static/media/refresh.1893ef65.png"
-  },
-  {
-    "revision": "544a920dd951239efb587b260e2907ae",
-    "url": "/diamond-addy/static/media/deposit.544a920d.png"
   },
   {
     "revision": "ae9f8ea489ea9a69a58909f415fa99b5",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/diamond-addy/static/media/ATM.4b0662c4.jpg"
   },
   {
-    "revision": "d3e751242736f24f5d08556d59c8c6a8",
+    "revision": "18bde49e2596665c454a26e3d1346a68",
     "url": "/diamond-addy/index.html"
   }
 ];

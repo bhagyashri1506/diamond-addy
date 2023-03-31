@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/diamond-addy/precache-manifest.b7f395e81529f5277285e866421b4f1d.js"
+  "/diamond-addy/precache-manifest.534326ac22086eb50aa8c57b851540a6.js"
 );
 
 workbox.clientsClaim();
